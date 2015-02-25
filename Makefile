@@ -10,3 +10,6 @@ clean:
 
 astound:
 	@echo ShaZam!
+
+gosh:
+	@echo yawn
