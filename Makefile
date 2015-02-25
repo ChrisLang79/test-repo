@@ -1,4 +1,4 @@
-# Trig a build
+# Trig a build please
 
 all:
 	@touch file.a
