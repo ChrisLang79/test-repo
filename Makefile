@@ -1,4 +1,4 @@
-# hah hee
+# hah he
 
 all:
 	@touch file.a
