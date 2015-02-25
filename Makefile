@@ -1,5 +1,5 @@
 # hah he
-
+# ghprb automerge check
 all:
 	@touch file.a
 	@zip dist.zip file.a
