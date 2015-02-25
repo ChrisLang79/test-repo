@@ -9,5 +9,4 @@ clean:
 	@rm -f file.a dist.zip
 
 astound:
-	@echo 'abc 123'
-	@echo 'ShaZam'
+	@echo ShaZam!
