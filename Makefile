@@ -1,5 +1,5 @@
 # hah he
-
+# ghprb automerge check check all done
 all:
 	@touch file.a
 	@zip dist.zip file.a
@@ -9,4 +9,4 @@ clean:
 	@rm -f file.a dist.zip
 
 astound:
-	@echo ShaZam!
+	@echo ShaZam! Marval!
